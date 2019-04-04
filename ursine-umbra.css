@@ -120,7 +120,7 @@
 
 html,
 body {
-  font-family: "Avenir Next LT Pro", "Lato", sans-serif;
+  font-family: "Avenir Next LT Pro";
 }
 
 body {
@@ -133,11 +133,11 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Adelle";
+  font-family: "Avenir Next LT Pro", "Lato", sans-serif;
 }
 
 h1 {
-  font-size: 1.8rem;
+  font-size: 1.6rem;
   margin: 1rem 0;
 }
 
@@ -172,6 +172,7 @@ p {
 
 a {
   color: var(--link-color);
+  text-decoration: none;
 }
 
 del {
@@ -526,13 +527,13 @@ span.md-def-split {
 }
 
 .sidebar-tabs {
-  font-family: "Adelle";
+  font-family: "Avenir Next LT Pro";
   border-bottom: 1px solid black;
 }
 
 .file-list-item-file-name {
-  font-family: "Adelle";
-  font-size: 1.2rem;
+  font-family: "Avenir Next LT Pro";
+  font-size: 1.1rem;
 }
 
 input.file-list-item-file-name, input.file-tree-rename-input {
